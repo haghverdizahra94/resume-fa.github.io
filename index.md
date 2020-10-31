@@ -1,37 +1,82 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/haghverdizahra94/resume-fa.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/haghverdizahra94/resume-fa.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<div dir="rtl">
+<h1> زهرا حق وردی </ h1>
+ طراح سایت
+ 
+<br>
+ مشخصات فنی :
+<br>
+  متولد1379/4/2
+<br>
+ جنسیت: زن
+<br>
+  شماره تماس: 09302720706
+<br>
+تحصیلات:
+<br>
+ 1397 تا الان
+<br>
+مهندسی کامپیوتر :
+<br>
+  نرم افزار ، دانشگاه پیام نور شهریار ، کارشناسی ارشد
+<br>
+  معدل: 16
+<br>
+خلاصه فعالیت ها:
+<br>
+ انجام پروژه های طراحی سایت (فروشگاه ، عکاسی ، معرفی محصول ، رستوران ،
+ سایت خبری)
+<br>
+ مهارت ها :
+<br>
+  HTML5 (100٪)
+<br>
+  Css3 (100٪)
+<br>
+  bootstrap (100 %)
+<br>
+javascript ( 100 %)
+<br>
+  jQuery (100٪)
+<br>
+  C (100٪)
+<br>
+  C ++ (100٪)
+<br>
+ Excel ( 100 % )
+<br>
+ Word (100٪)
+<br>
+ Powerpoint (100٪)
+<br>
+ زبان:
+<br>
+میزان تسلط (۵۰٪)
+<br>
+نقاط قوت رفتاری
+<br>
+ ارتباط با مشتری و کارفرما
+<br>
+ (استراتژی مرکزی (تفکر استراتژیک
+<br>
+ تأثیر / مذاکره
+<br>
+ حل مسئله و تصمیم گیری
+<br>
+ تعهد و انگیزه خدمت
+<br>
+ خلاصه از من
+<br>
+ علاقه من به طراحی سایت و پروژه های بزرگ
+<br>
+ راه های ارتباطی
+<br>
+ ایمیل: haghverdizahra94@gmail.com
+<br>
+ گیت هاب: zahrahaghverdi94@gmail.com
+<br>
+ تلگرام: zzahrai425
+<br>
+ اینستاگرام: zzahrai425
+<br>
+زهراا
+</div>
